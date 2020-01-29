@@ -55,7 +55,7 @@ header .overlay {
 
 @media (pointer: coarse) and (hover: none) {
   header {
-    background: url('img/banner.png') black no-repeat center center scroll;
+    background: url('img/capstone_low_fps_gif') black no-repeat center center scroll;
   }
   header video {
     display: none;
