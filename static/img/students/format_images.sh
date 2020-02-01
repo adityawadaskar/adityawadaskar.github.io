@@ -1,1 +1,2 @@
-mogrify -format png ./*
+#mogrify -format png ./*
+mogrify -resize 700x700 *
